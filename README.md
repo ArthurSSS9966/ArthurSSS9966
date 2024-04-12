@@ -11,7 +11,7 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### or
 ### LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
 
-📊 **this week i spent my time on:**
+### 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
