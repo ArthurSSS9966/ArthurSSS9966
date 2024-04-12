@@ -14,10 +14,6 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
-Python   6 hrs 43 mins    █████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent) 
