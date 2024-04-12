@@ -14,7 +14,6 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-![WAKA workflow](https://github.com/ArthurSSS9966/ArthurSSS9966/actions/workflows/waka-readme.yml)
 <!--END_SECTION:waka-->
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent) 
