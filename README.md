@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on decoding local field potentials from deep brain!
+📫 How to reach me: 
+Email: shaox@usc.edu,
+or 
+LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ArthurSSS9966/ArthurSSS9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
