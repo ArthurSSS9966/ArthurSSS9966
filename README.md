@@ -4,7 +4,8 @@ Hi there! 👋 I'm Xiecheng, a passionate researcher and machine learning enthus
 
 Currently, I'm working on pushing the boundaries of brain-computer interfaces by developing cutting-edge machine learning algorithms and signal processing techniques to decode neural activity 🧠. My research focuses on extracting meaningful insights from complex physiological data, with the goal of enabling innovative applications in neuroengineering and assistive technologies 🦾.
 
-### 🔭 I’m currently working on decoding local field potentials from deep brain!
+### 🌱 I’m currently learning Spiking Neural Networks!
+### 🤔 I’m actively looking for interns!
 ### 📫 How to reach me:
 ### Email: shaox@usc.edu,
 ### or
