@@ -12,6 +12,7 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
 
 ### 📊 **this week i spent my time on:**
+![example workflow](https://github.com/github/docs/actions/workflows/waka-readme.yml/https://docs.github.com/assets/cb-16220/mw-1440/images/help/repository/actions-workflow-status-badge.webp)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
