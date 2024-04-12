@@ -1,7 +1,5 @@
 [![MasterHead](https://github.com/ArthurSSS9966/ArthurSSS9966/blob/main/header.png?raw=true)](https://github.com/ArthurSSS9966)
 
-### Hi there 👋
-
 ### 🔭 I’m currently working on decoding local field potentials from deep brain!
 ### 📫 How to reach me:
 ### Email: shaox@usc.edu,
