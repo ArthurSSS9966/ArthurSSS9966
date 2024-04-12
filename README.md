@@ -10,6 +10,16 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### Email: shaox@usc.edu,
 ### or
 ### LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+Python   6 hrs 43 mins    █████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSSS9966&show_icons=true&theme=transparent&layout=donut)
 
