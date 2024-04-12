@@ -14,6 +14,15 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 ### 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 11 April 2024 - To: 11 April 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent) 
