@@ -1,4 +1,4 @@
-![masterhead]
+![Header](https://github.com/ArthurSSS9966/ArthurSSS9966/blob/master/header.png?raw=true)
 
 Hi there! 👋 I'm Xiecheng, a passionate researcher and machine learning enthusiast with a background in computational neuroscience and electrical engineering.
 
