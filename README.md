@@ -7,7 +7,7 @@
 ### LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
 ### ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSSS9966&show_icons=true&theme=transparent&layout=donut)
-### ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurSSS9966&repo=COVID_Protection_Cal)
+
 <!--
 **ArthurSSS9966/ArthurSSS9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurSSS9966&repo=BiGA_Decoder)
 -->
