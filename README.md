@@ -16,12 +16,12 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 01 March 2025
+From: 11 April 2024 - To: 02 March 2025
 
-Total Time: 255 hrs 59 mins
+Total Time: 256 hrs 58 mins
 
-Python             182 hrs 17 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.19 %
-Jupyter            64 hrs 43 mins  ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.28 %
+Python             182 hrs 44 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.09 %
+Jupyter            65 hrs 15 mins  ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.39 %
 JSON               3 hrs 28 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.35 %
 ```
 
