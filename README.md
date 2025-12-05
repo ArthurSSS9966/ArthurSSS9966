@@ -16,7 +16,7 @@ Currently, I'm working on pushing the boundaries of brain-computer interfaces by
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 02 December 2025
+From: 11 April 2024 - To: 03 December 2025
 
 Total Time: 418 hrs 28 mins
 
