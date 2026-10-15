@@ -1,22 +1,52 @@
-![Header](https://github.com/ArthurSSS9966/ArthurSSS9966/blob/master/header.png?raw=true)
+# Hi, I'm Arthur Shao
 
-Hi there! 👋 I'm Arthur, a passionate researcher and machine learning enthusiast with a background in computational neuroscience and electrical engineering.
+**Neural decoding · Brain-computer interfaces · Research software**
 
-Currently, I'm working on pushing the boundaries of brain-computer interfaces by developing cutting-edge machine learning algorithms and signal processing techniques to decode neural activity 🧠. My research focuses on extracting meaningful insights from complex physiological data, with the goal of enabling innovative applications in neuroengineering and assistive technologies 🦾.
+I work at the intersection of computational neuroscience, electrical engineering, and machine learning. I build Python workflows to turn neural and physiological signals into models we can evaluate and interpret.
 
-### 🌱 I’m currently learning Foundation Model for EEG (sEEG)!
-### 🤔 I’m actively looking for neuroAI full time job!
-### 📫 How to reach me:
-### Email: shaox@usc.edu,
-### or
-### LinkedIn: www.linkedin.com/in/xiecheng-shao-789b90159
+[Research portfolio](https://arthursss9966.github.io/) · [LinkedIn](https://www.linkedin.com/in/xiecheng-shao-789b90159/) · [Public repositories](https://github.com/ArthurSSS9966?tab=repositories)
 
-### 📊 **this week i spent my time on:**
+<img src="header.png" alt="Arthur Shao's personal motto: Live simple." width="1000">
+
+## Research & engineering
+
+- **Neural decoding:** recurrent models, attention, and regularization for learning from neural recordings.
+- **Human electrophysiology:** sEEG signal processing, movement decoding, and interpretable analysis.
+- **Research software:** Python and PyTorch workflows for feature preparation, training, and inference.
+
+I'm interested in BCI, machine learning, and research engineering opportunities. [Connect on LinkedIn](https://www.linkedin.com/in/xiecheng-shao-789b90159/).
+
+## Selected public projects
+
+| Project | What you'll find |
+| --- | --- |
+| [BiGA Decoder](https://github.com/ArthurSSS9966/BiGA_Decoder) | Neural decoding experiments with bidirectional GRUs, attention, and parameter regularization for hand-velocity regression. **Python · PyTorch** |
+| [SeizureProp](https://github.com/ArthurSSS9966/SeizureProp) | Research software for sEEG channel localization from prepared features at a supplied seizure onset, with a package interface and synthetic tests. **Python · Research tooling** |
+| [Discord Bot](https://github.com/ArthurSSS9966/Discord-Bot) | A bot integrating GPT-4 and Midjourney APIs for conversational and image-generation experiments. **Python · API integration** |
+
+SeizureProp is research software, not a validated continuous seizure detector or clinical device. See each repository for its current scope and setup requirements.
+
+## Selected publication
+
+[**Directional Hand Movement Can Be Classified from Insular Cortex sEEG Signals Using Recurrent Neural Networks and High-Gamma Band Features**](https://www.nature.com/articles/s41598-025-14805-3)
+
+X. Shao et al. · *Scientific Reports* · 2025
+
+[More research and publications](https://arthursss9966.github.io/#publications)
+
+## Coding activity
+
+Explore my [GitHub contribution history](https://github.com/ArthurSSS9966#year-list-container) and [public repositories](https://github.com/ArthurSSS9966?tab=repositories) for current activity.
+
+<details>
+<summary>Tracked coding time · all time</summary>
+
+WakaTime activity for the date range below. This reflects tracked editor time, not all work or GitHub contribution counts.
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 10 October 2026
+From: 11 April 2024 - To: 13 October 2026
 
 Total Time: 485 hrs 28 mins
 
@@ -27,21 +57,4 @@ Markdown           16 hrs 32 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurSSS9966&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSSS9966&show_icons=true&theme=transparent&layout=donut)
-
-<!--
-**ArthurSSS9966/ArthurSSS9966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArthurSSS9966&repo=BiGA_Decoder)
--->
+</details>

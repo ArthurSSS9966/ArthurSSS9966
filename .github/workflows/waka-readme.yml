@@ -28,7 +28,7 @@ jobs:
           STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }} # follow the published profile branch
           TARGET_PATH: README.md # optional
           AUTHOR_NAME: Arthur # optional
           # you can populate email-id with secretes instead
